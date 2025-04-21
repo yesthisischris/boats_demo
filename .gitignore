@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Secrets
+*secrets/*
+
+# Data
+*data/*
+*.csv
+
+# Scratch
+*scratch.py
+
 # C extensions
 *.so
 
