@@ -1,7 +1,7 @@
 # Shadow Tanker Analysis Project
 
 ## Project Goal
-The goal of this project is to track known Russian shadow tankers and identify unknown ones. The analysis focuses on identifying vessels with suspicious behavior patterns, such as dark voyages and unusual routes, and detecting ship-to-ship (STS) transfers in AIS data where possible.
+The primary goal is to track known Russian shadow tankers and identify unknown ones. The analysis focuses on identifying vessels with suspicious behavior patterns, such as dark voyages and unusual routes, and detecting ship-to-ship (STS) transfers in AIS data where possible.
 
 ---
 
