@@ -7,10 +7,6 @@ from shapely.geometry import box
 from matplotlib.colors import Normalize
 from matplotlib.cm import ScalarMappable
 from matplotlib import colormaps
-import numpy as np
-from datetime import datetime, timedelta
-import matplotlib.patches as mpatches
-
 
 def generate_vignette_plot(vessel_gdf, mmsi_list, start_time, end_time, buffer_hrs=0):
     """

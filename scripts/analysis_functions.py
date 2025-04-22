@@ -1,6 +1,5 @@
 import pandas as pd
 from geopy.distance import geodesic
-from shapely.geometry import Point
 import h3
 import pandas as pd
 

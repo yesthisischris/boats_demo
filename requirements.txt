@@ -1,0 +1,10 @@
+geopandas
+h3
+matplotlib
+contextily
+shapely
+google-cloud-storage
+rasterio
+pyproj
+pandas
+geopy
